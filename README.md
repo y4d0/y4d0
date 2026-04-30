@@ -1,90 +1,30 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&lines=system+online;initializing+interface;wikidd" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=EDEDED&center=true&vCenter=true&lines=system+initialized;Yash+%7C+CS+Engineer;UI%2FUX+Designer+%7C+Web+Developer;building+interactive+experiences" />
 </p>
 
-# [ W I K I D D ]
-
-> System initialized.
-
-## // STATUS
-
-> Unit: Yash  
-> Class: Computer Science Engineer  
-> Function: Design / Development / Creative Systems  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header"/>
+</p>
 
 ---
 
-## // OVERVIEW
+## YASH YADAV
 
-This repository contains fragments of work  
-assembled across web, design, and audiovisual systems.
+> computer science graduate  
+> ui/ux designer · web developer  
 
-Primary directive:
-> Build interactive and visually-driven experiences.
-
-Secondary directive:
-> Blur the boundary between code and art.
+building interactive and visually-driven digital experiences  
+across web, design, and motion  
 
 ---
 
-## // MODULES
-
-- Web Development  
-- UI / UX Systems  
-- Digital Art  
-- Motion & Audiovisual Experiments  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,next,react,css,html,git" />
+</p>
 
 ---
 
-## // ACTIVE PROJECT
-
-> [ WIKIDD — Portfolio Interface ]
-
-A personal system designed to display:
-- Projects  
-- Visual work  
-- Interactive structures  
-
-Built with focus on:
-- Responsiveness  
-- Clean architecture  
-- Atmospheric design  
-
----
-
-## // TECHNOLOGIES
-
-- JavaScript  
-- Next.js  
-- CSS / Styling Systems  
-- Git / Version Control  
-
----
-
-## // SIGNAL
-
-> Accepting external requests.
-
-Freelance work:
-- Web Design  
-- Development  
-- Creative Systems  
-
----
-
-## // CONTACT
-
-> Transmission channels open.
-
-- Portfolio: [wikidd.dev](https://wikidd.vercel.app/)
-- Email: yyadav400@gmail.com
-
----
-
-## // LOG
-
-> "We are perpetually trapped in a loop of creation and iteration."
-
----
-
-## END OF FILE
+<p align="center">
+  <a href="https://wikidd.vercel.app/">portfolio</a> •
+  <a href="mailto:yyadav400@gmail.com">contact</a>
+</p>
