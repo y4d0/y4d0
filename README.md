@@ -1,9 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&lines=system+online;initializing+interface;wikidd" />
+</p>
+
 # [ W I K I D D ]
 
 > System initialized.
-> Identity confirmed.
-
----
 
 ## // STATUS
 
@@ -75,8 +76,8 @@ Freelance work:
 
 > Transmission channels open.
 
-- Portfolio: [[wikidd.dev](https://wikidd.vercel.app/)]
-- Email: [yyadav400@gmail.com]
+- Portfolio: [wikidd.dev](https://wikidd.vercel.app/)
+- Email: yyadav400@gmail.com
 
 ---
 
